@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Mike Spencer",
+    "Email": "spencer@contoso.com",
+    "Phone": "07100000000",
+    "Location": "London, UK",
+    "WorkHistory": [
+      {
+        "JobTitle": "Software Engineer",
+        "Company": "SP Ltd.",
+        "StartDate": "2013-11-02T00:00:00+00:00",
+        "EndDate": "2015-11-02T00:00:00+00:00"
+      },
+      {
+        "JobTitle": "Software Engineer",
+        "Company": "Contoso SA",
+        "StartDate": "2015-11-02T00:00:00+00:00",
+        "EndDate": null
+      }
+    ]
+  },
+  {
+    "Name": "Fleur Michael",
+    "Email": "michael@contoso.com",
+    "Phone": "07200000000",
+    "Location": "Oxford, UK",
+    "WorkHistory": [
+      {
+        "JobTitle": "Software Engineer",
+        "Company": "Here and There Ltd.",
+        "StartDate": "2010-11-02T00:00:00+00:00",
+        "EndDate": "2012-11-02T00:00:00+00:00"
+      },
+      {
+        "JobTitle": "Project Manager",
+        "Company": "Master King",
+        "StartDate": "2012-11-02T00:00:00+00:00",
+        "EndDate": "2015-11-02T00:00:00+00:00"
+      },
+      {
+        "JobTitle": "Software Engineer",
+        "Company": "Ricco SA",
+        "StartDate": "2015-11-02T00:00:00+00:00",
+        "EndDate": null
+      }
+    ]
+  },
+  {
+    "Name": "Dulcie Patton",
+    "Email": "patton@contoso.com",
+    "Phone": "07300000000",
+    "Location": "Belfast, UK",
+    "WorkHistory": [
+      {
+        "JobTitle": "Software Engineer",
+        "Company": "Bio Tech SA",
+        "StartDate": "2015-11-02T00:00:00+00:00",
+        "EndDate": null
+      }
+    ]
+  }
+]
